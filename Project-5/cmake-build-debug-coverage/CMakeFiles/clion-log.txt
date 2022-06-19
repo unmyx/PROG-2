@@ -1,0 +1,4 @@
+C:\Users\depdu\AppData\Local\JetBrains\CLion2021.3\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/cygdrive/c/Program Files/JetBrains/CLion 2021.3.3/bin/ninja/cygwin/ninja.exe" -DCMAKE_CXX_FLAGS=--coverage -DCMAKE_C_FLAGS=--coverage -G Ninja /cygdrive/c/Users/depdu/CLionProjects/P5
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/depdu/CLionProjects/P5/cmake-build-debug-coverage
